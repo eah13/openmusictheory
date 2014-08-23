@@ -186,7 +186,7 @@ input {
 }
 
 .wrap {
-    max-width: 960px;
+    max-width: 90%;
     @include column(10);
     float: none;
     margin: 0 auto;
@@ -196,7 +196,7 @@ input {
 
 .post {
     @include column(8);
-    max-width: 680px;
+    max-width: 80%;
     display: block;
     margin: 0 auto;
     float: none;
